@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "41589ca712a577320cd397db",
+  "owner": "gcwduuufg",
+  "repo": "page-5dbc1c64f75252dace56d630",
+  "title": "几鸡(ChinaG)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5dbc1c64f75252dace56d630",
+      "a": "几鸡(ChinaG)",
+      "b": "免费订阅导入",
+      "entity": "几鸡(ChinaG)",
+      "brand": "几鸡(ChinaG)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "838826bb2e3e0bf03274a95ccc2d5437736d70da3ea145854d453026d8c993b0",
+      "content": {
+        "primary_entity": "几鸡(ChinaG)",
+        "keyword1": "几鸡(ChinaG)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖从个人到团队的多设备场景。基础版每月100GB流量，支持3台设备；旗舰版每月300GB流量，支持5台设备，并配有IPLC专线游戏加速优化；团队版每月1000GB流量，支持20台设备，提供VIP专属高带宽节点。支持按年付费，年付更划算。客户端导入订阅后即可在常用设备上使用。",
+          "AI_FEATURES_INTRO": "从套餐对比到设备配置，三步完成使用准备。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人日常使用，旗舰版兼顾流媒体与游戏，团队版满足多设备高流量需求。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按需选择更灵活。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "几鸡(ChinaG)提供海外加速服务，套餐覆盖基础版至团队版，满足个人与团队不同设备数量和流量需求。按年付费更优惠，客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "灵活套餐，多设备加速",
+          "AI_HIGHLIGHT_1": "基础版月付15元，100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备",
+          "AI_PLANS_INTRO": "三档套餐按流量和設備数量区分，可按月或按年付费。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和流量需求，在基础版、旗舰版与团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与流量额度，查看是否满足使用场景。",
+          "AI_STEP_TEXT_3": "参考对应客户端的订阅导入文档，完成配置后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "几鸡(ChinaG)套餐一览",
+          "AI_FAQ_ANSWER_1": "适合日常网页浏览和轻量流媒体，每月 100GB 流量可满足单人基础使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，并提供 IPLC 专线游戏加速优化和流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "年付相比月付总价更低，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "Windows 可用 Clash 或 v2rayN，macOS 可用 ClashX，Android 可用 v2rayNG，iOS 可用 Shadowrocket，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、20 台设备，并支持企业定制路由和专属客户经理服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版每月 100GB 流量适合什么场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "不同设备该下载哪个客户端？",
+          "AI_FAQ_QUESTION_5": "团队版适合怎样的使用需求？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ed784e88380067f42d087bc23c0b608cd92b7de0532f50dfa7a16970f7c21bec",
+    "sitemap.xml": "4e0ed83e702cfb8125b10b20f158d980cea51b6b328ffa44d1bcb16e56b22eef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "81bc74964751aa05eaa4090244da234b6b342977effd6ebd498502f2f5fd6bd0"
+}
